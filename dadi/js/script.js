@@ -20,5 +20,4 @@ if (giocatore > computer) {
     document.getElementById("giocatore").innerHTML += giocatore;
     document.getElementById("computer").innerHTML += computer;
     document.getElementById("pareggio").innerHTML += "Pareggio! Ripetere il lancio!";
-    // alert("Pareggio! Ripetere il lancio!");
 }
