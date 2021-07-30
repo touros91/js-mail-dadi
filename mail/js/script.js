@@ -1,9 +1,3 @@
-// Mail
-// Chiedi all’utente la sua email,
-// controlla che sia nella lista di chi può accedere,
-// stampa un messaggio appropriato sull’esito del controllo.
-
-
 // creo una lista di email 
 
 var listaEmail = ["marcorossi@gmail.com" , "chiara_baggio@gmail.com", "luigi90@libero.it", "davidebianchi@hotmail.com", "gabriella7@yahoo.com"];
