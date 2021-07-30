@@ -12,7 +12,6 @@ if (giocatore > computer) {
     document.getElementById("giocatore").innerHTML += giocatore + " HAI VINTO!";
     document.getElementById("giocatore").style.color = "green";
     document.getElementById("computer").innerHTML += computer;
-    document.getElementById("computer").style.color = "red";
 } else if (computer > giocatore) {
     document.getElementById("computer").innerHTML += computer;
     document.getElementById("giocatore").innerHTML += giocatore + " Hai perso! Oh nooo il computer ha vinto! Ritenta sarai più fortunato";
